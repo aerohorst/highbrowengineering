@@ -11,7 +11,7 @@ export default function Countdown() {
   })
 
   useEffect(() => {
-    const targetDate = new Date("2026-03-01T00:00:00")
+    const targetDate = new Date("2026-10-01T00:00:00")
 
     const calculateTimeLeft = () => {
       const now = new Date()
