@@ -58,7 +58,7 @@ export default function Home() {
                 <p className="mb-2">➤ Zero bag rattling</p>
                 <p className="mb-2">➤ Low center of gravity</p>
                 <p className="mb-2">➤ Balanced front-rear weight distribution</p>
-                <p className="mb-2">➤ Purpose-built handlebar enabling distinctly different hand and body positions</p>
+                <p className="mb-2">➤ Purpose-built handlebar</p>
               </div>
             </div>
           </div>
